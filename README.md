@@ -14,7 +14,7 @@ No manuals. No mentors. Just a low-end PC, persistence, and 1000+ problems solve
 ## 📫 Reach Me
 
 - Discord: muhd.fazil  
-- GitHub: [muhdfazilcode](https://github.com/muhdfazilcode)
+- GitHub: [muhdfazil](https://github.com/muhdfazil)
 
 
 <!--
